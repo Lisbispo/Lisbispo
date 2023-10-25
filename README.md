@@ -4,8 +4,7 @@
 <div style="display: inline_block"><br>
 <em>Sou formada em Psicologia, mas sempre fui apaixonada pelo mundo da Tecnologia da Informação</em><br>
 <em>E aqui estou eu... Me redescobrindo, me reinventando...</em><br><br>
-💻 - Dev Front-End Jr <br>
-📚 - Estudante de Engenharia de Software na Wyden <br>
+💻 - Estudante de Desenvolvimento Full Stack Python na EBAC<br>
 </div>
 
 <div style="display: inline_block"><br>
